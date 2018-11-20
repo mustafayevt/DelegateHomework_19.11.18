@@ -10,6 +10,18 @@ namespace DelegateHomework._19._11._18
     {
         static void Main(string[] args)
         {
+
         }
     }
+
+    class MyClass
+    {
+        static void Space(string str)
+        {
+
+        }
+    }
+
+
+    delegate void Func(string tmp);
 }
